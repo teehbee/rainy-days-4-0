@@ -28,6 +28,7 @@ const jacketWomenContainerSpecific = document.querySelector(".product-main");
             <option value="L">${jacketForWoman.sizes[3]}</option>
             <option value="XL">${jacketForWoman.sizes[4]}</option>
           </select>
+          <a href="missing-page.html">Size guide</a>
         </div>
       <div class="purchase-button">
         <a href="#" class="cta-green">ADD TO CART</a> 
